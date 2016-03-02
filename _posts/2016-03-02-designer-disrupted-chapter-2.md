@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-02T14:21:26.048Z'
-dateModified: '2016-03-02T14:20:40.940Z'
-title: ' '
+description: 'A trip to Munich, filled with the hope of possibility.'
+datePublished: '2016-03-02T14:24:15.869Z'
+dateModified: '2016-03-02T14:23:13.410Z'
+title: 'Designer disrupted, chapter 2'
 author: []
 sourcePath: _posts/2016-03-02-designer-disrupted-chapter-2.md
 published: true
@@ -23,8 +23,6 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5be432f-2ef2-4e41-87ac-0ac9e52f34e7.jpg)
-
-# 
 
 **The Hunter.**
 
