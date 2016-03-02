@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[ux5x5]]></title>
         <description><![CDATA[ux5x5]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ux5x5/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Mar 2016 13:52:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 02 Mar 2016 12:29:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ux5x5/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Designer disrupted, chapter 2]]></title>
+            <description><![CDATA[<article><h1>Designer disrupted, chapter 2</h1><p>The hunter.</p></article>]]></description>
+            <link>https://thegrid.ai/ux5x5/designer-disrupted-chapter-2/index.html</link>
+            <guid isPermaLink="false">79130f66-2e4a-4eb4-bd71-702b08fb8817</guid>
+            <pubDate>Wed, 02 Mar 2016 12:29:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Designer disrupted chapter 1]]></title>
             <description><![CDATA[<article><h1>Designer disrupted chapter 1</h1><p>Every few years, the CDC announces a new super-bug. A disease resistant to treatments usually prescribed for illnesses of that ilk. During the announcement, they invariably suggest that citizens be on the look out for 'flu-like symptoms'. Given the vague nature of the symptoms description, almost any illness might trigger alarm bells in the head of anyone not feeling well.</p></article>]]></description>
-            <link>undefineddesigner-disrupted-chapter-1/index.html</link>
+            <link>https://thegrid.ai/ux5x5/designer-disrupted-chapter-1/index.html</link>
             <guid isPermaLink="false">4224544a-b67a-457c-8e6a-b6fa6278f462</guid>
             <pubDate>Tue, 01 Mar 2016 13:52:18 GMT</pubDate>
         </item>
