@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T13:47:59.046Z'
-dateModified: '2016-03-02T13:47:23.423Z'
+datePublished: '2016-03-02T14:02:05.877Z'
+dateModified: '2016-03-02T14:01:53.342Z'
 title: 'Designer disrupted, chapter 2'
 author: []
 sourcePath: _posts/2016-03-02-designer-disrupted-chapter-2.md
