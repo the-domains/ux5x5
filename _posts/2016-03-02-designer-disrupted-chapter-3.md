@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T13:13:40.668Z'
-dateModified: '2016-03-02T13:13:17.098Z'
+datePublished: '2016-03-02T13:52:21.205Z'
+dateModified: '2016-03-02T13:51:34.222Z'
 title: 'Designer disrupted, chapter 3'
 author: []
 sourcePath: _posts/2016-03-02-designer-disrupted-chapter-3.md
@@ -22,6 +22,8 @@ url: designer-disrupted-chapter-3/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdce7cfd-da5a-4498-92f1-0874b0592f47.jpg)
+
 # Designer disrupted, chapter 3
 
 ****
