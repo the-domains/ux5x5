@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'A trip to Munich, filled with the hope of possibility.'
-datePublished: '2016-03-02T15:16:03.586Z'
-dateModified: '2016-03-02T15:15:04.019Z'
+datePublished: '2016-03-02T15:19:40.626Z'
+dateModified: '2016-03-02T15:19:28.699Z'
 title: 'Designer disrupted, 2'
 author: []
 sourcePath: _posts/2016-03-02-designer-disrupted-chapter-2.md
@@ -29,11 +29,11 @@ _type: Article
 
 **The Hunter.**
 
-I reached out to the recruiter's office, a branch of Designer Dock, and made an appointment to get to know one another, talk about my work and experience and see if I meshed with any of her clients' needs. 
+I reached out to the recruiter's office, the Munich branch of Designer Dock, and made an appointment so we could get to know one another, talk about my work and experience and see if I meshed with any of her clients' needs. 
 
-I took the train down from Bamberg in the morning and decided to go a little early, locate her office and have a coffee and a snack before our meeting. 
+I took the train down from Bamberg in the morning early, so I had plenty of time to locate her office and have a coffee and a snack before our meeting. 
 
-The area was a little rough around the edges, but the cafes near by were pretty decent. I soon found one that looked pleasant enough and decided to make it my home-base for the day. 
+The area was a little rough around the edges, but the cafes nearby were decent and I soon found one that looked pleasant enough to make it my home-base for the afternoon. 
 
 Navigating the simple task of ordering coffee was something I had been slowly perfecting, but as in most conversational situations, people don't always ask what you expect them to. So after asking for a cappuccino and the soup of the day, the waiter proceeded to ask me a question about something else. 
 > 
