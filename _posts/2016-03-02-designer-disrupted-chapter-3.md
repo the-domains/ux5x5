@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T13:04:54.129Z'
-dateModified: '2016-03-02T13:01:11.634Z'
+datePublished: '2016-03-02T13:13:40.668Z'
+dateModified: '2016-03-02T13:13:17.098Z'
 title: 'Designer disrupted, chapter 3'
 author: []
+sourcePath: _posts/2016-03-02-designer-disrupted-chapter-3.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-02-designer-disrupted-chapter-3.md
-published: true
 url: designer-disrupted-chapter-3/index.html
 _type: Article
 
 ---
-Designer disrupted, chapter 3
+# Designer disrupted, chapter 3
 
 ****
 
