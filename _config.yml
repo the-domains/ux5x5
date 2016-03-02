@@ -1,6 +1,6 @@
 name: ux5x5
 favicon: null
-layout_spectrum: 0.76004
+layout_spectrum: 0
 typography_spectrum: 0.61758
 title: UX5x5
 cta:
@@ -22,8 +22,8 @@ color:
     - '#d0846c'
     - '#605f65'
     - '#3b7adb'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.75
+  brandStrength: 1
+  lightness: 1
+  saturation: 1
   rhythmicContrast: 1
 purpose: []
