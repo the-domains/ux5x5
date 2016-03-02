@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Culture shock is like the ocean. Never turn your back on it.
-datePublished: '2016-03-02T14:42:04.533Z'
-dateModified: '2016-03-02T14:41:51.685Z'
+datePublished: '2016-03-02T15:35:15.167Z'
+dateModified: '2016-03-02T15:34:56.742Z'
 title: 'Designer disrupted, 1'
 author: []
 sourcePath: _posts/2016-03-01-designer-disrupted-chapter-1.md
