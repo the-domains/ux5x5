@@ -1,7 +1,7 @@
 name: ux5x5
 favicon: null
 layout_spectrum: 0.50191
-typography_spectrum: 0.61758
+typography_spectrum: 0.26768
 title: UX5x5
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#5d5145'
-    - '#1f1b1c'
-    - '#fffef3'
-    - '#a48570'
-    - '#d0b29a'
+    - '#060606'
+    - '#dacbac'
+    - '#92928a'
+    - '#f3691e'
+    - '#3c68b3'
   brandStrength: 0
   lightness: 1
-  saturation: 1
+  saturation: 0.5
   rhythmicContrast: 0
 purpose: []
