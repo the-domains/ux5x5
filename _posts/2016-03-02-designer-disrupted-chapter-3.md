@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T13:52:21.205Z'
-dateModified: '2016-03-02T13:51:34.222Z'
+datePublished: '2016-03-02T14:02:07.995Z'
+dateModified: '2016-03-02T14:01:39.910Z'
 title: 'Designer disrupted, chapter 3'
 author: []
 sourcePath: _posts/2016-03-02-designer-disrupted-chapter-3.md
@@ -29,7 +29,7 @@ _type: Article
 ****
 
 **Then
-that happened.**
+it happened.**
 
 I left Munich feeling pretty good about my chances of
 finding work in Germany, what the market would bare in terms of salary
