@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T14:14:36.157Z'
-dateModified: '2016-03-02T14:13:40.877Z'
-title: The hunter.
+datePublished: '2016-03-02T14:21:26.048Z'
+dateModified: '2016-03-02T14:20:40.940Z'
+title: ' '
 author: []
 sourcePath: _posts/2016-03-02-designer-disrupted-chapter-2.md
 published: true
@@ -24,7 +24,9 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5be432f-2ef2-4e41-87ac-0ac9e52f34e7.jpg)
 
-# **The hunter.**
+# 
+
+**The Hunter.**
 
 I reached out to the recruiter's office, a branch of Designer Dock, and made an appointment to get to know one another, talk about my work and experience and see if I meshed with any of her clients' needs. 
 
