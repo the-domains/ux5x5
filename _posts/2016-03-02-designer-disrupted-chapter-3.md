@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Resolving a picture of what was and what could be. '
-datePublished: '2016-03-02T14:19:45.498Z'
-dateModified: '2016-03-02T14:19:35.172Z'
+datePublished: '2016-03-02T14:24:25.746Z'
+dateModified: '2016-03-02T14:22:06.242Z'
 title: 'Designer disrupted, chapter 3'
 author: []
 sourcePath: _posts/2016-03-02-designer-disrupted-chapter-3.md
