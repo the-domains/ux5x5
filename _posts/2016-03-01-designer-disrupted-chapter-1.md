@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-01T13:52:18.796Z'
-dateModified: '2016-03-01T13:52:13.807Z'
-title: Designer disrupted chapter 1
+datePublished: '2016-03-02T13:07:01.792Z'
+dateModified: '2016-03-01T13:54:05.512Z'
+title: 'Designer disrupted, chapter 1'
 author: []
 authors: []
 publisher:
@@ -22,7 +22,7 @@ url: designer-disrupted-chapter-1/index.html
 _type: Article
 
 ---
-# Designer disrupted chapter 1
+# Designer disrupted, chapter 1
 
 Every few years, the CDC announces a new super-bug. A disease resistant to treatments usually prescribed for illnesses of that ilk. During the announcement, they invariably suggest that citizens be on the look out for 'flu-like symptoms'. Given the vague nature of the symptoms description, almost any illness might trigger alarm bells in the head of anyone not feeling well.
 
