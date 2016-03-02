@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2016-03-02T14:00:30.030Z'
-dateModified: '2016-03-02T14:00:21.860Z'
+description: Culture shock is like the ocean. Never turn your back on it.
+datePublished: '2016-03-02T14:40:27.750Z'
+dateModified: '2016-03-02T14:40:21.490Z'
 title: 'Designer disrupted, chapter 1'
 author: []
 sourcePath: _posts/2016-03-01-designer-disrupted-chapter-1.md
