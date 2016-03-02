@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'A trip to Munich, filled with the hope of possibility.'
-datePublished: '2016-03-02T15:04:47.659Z'
-dateModified: '2016-03-02T15:04:35.974Z'
+datePublished: '2016-03-02T15:07:11.168Z'
+dateModified: '2016-03-02T15:07:09.791Z'
 title: 'Designer disrupted, 2'
 author: []
 sourcePath: _posts/2016-03-02-designer-disrupted-chapter-2.md
