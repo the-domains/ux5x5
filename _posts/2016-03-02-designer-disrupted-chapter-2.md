@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T14:09:12.614Z'
-dateModified: '2016-03-02T14:08:57.030Z'
-title: 'The hunter. '
+datePublished: '2016-03-02T14:12:39.594Z'
+dateModified: '2016-03-02T14:09:21.306Z'
+title: The hunter.
 author: []
 sourcePath: _posts/2016-03-02-designer-disrupted-chapter-2.md
 published: true
