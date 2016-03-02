@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'A trip to Munich, filled with the hope of possibility.'
-datePublished: '2016-03-02T14:24:15.869Z'
-dateModified: '2016-03-02T14:23:13.410Z'
+datePublished: '2016-03-02T14:33:23.621Z'
+dateModified: '2016-03-02T14:32:45.109Z'
 title: 'Designer disrupted, chapter 2'
 author: []
 sourcePath: _posts/2016-03-02-designer-disrupted-chapter-2.md
@@ -22,8 +22,6 @@ url: designer-disrupted-chapter-2/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5be432f-2ef2-4e41-87ac-0ac9e52f34e7.jpg)
-
 **The Hunter.**
 
 I reached out to the recruiter's office, a branch of Designer Dock, and made an appointment to get to know one another, talk about my work and experience and see if I meshed with any of her clients' needs. 
@@ -47,3 +45,7 @@ The recruiter's offices were located at the back of a Hoff, a courtyard within a
 Her offices were sparsely appointed in one of those, "furniture is so overrated, appreciate the space" kind of motifs. After a brief introduction we decided English would be better than having me struggle through the conversation in German. 
 
 She liked my work and gave me some great feedback on refining my portfolio for the German market. We talked about what I was looking for, what she had to offer and the kinds of offers or companies I'd like to work for. She also suggested that I would attract a better salary with better German skills (I think my only minus point, but a bit one). She was quite optimistic about my background and capabilities.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/779d0a6c-dbdc-448b-9244-00e517cc66cf.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1920d749-cde2-4536-9adf-d8dfe1ed0da9.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d53ae33e-9130-404c-b501-f66e5e6865b7.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4ac728c-c26a-4aea-9186-b588620bfeef.jpg)
