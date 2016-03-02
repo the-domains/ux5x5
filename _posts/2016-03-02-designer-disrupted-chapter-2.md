@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T14:02:05.877Z'
-dateModified: '2016-03-02T14:01:53.342Z'
-title: 'Designer disrupted, chapter 2'
+datePublished: '2016-03-02T14:09:12.614Z'
+dateModified: '2016-03-02T14:08:57.030Z'
+title: 'The hunter. '
 author: []
 sourcePath: _posts/2016-03-02-designer-disrupted-chapter-2.md
 published: true
@@ -24,9 +24,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5be432f-2ef2-4e41-87ac-0ac9e52f34e7.jpg)
 
-# Designer disrupted, chapter 2
-
-**The hunter.**
+# **The hunter.**
 
 I reached out to the recruiter's office, a branch of Designer Dock, and made an appointment to get to know one another, talk about my work and experience and see if I meshed with any of her clients' needs. 
 
@@ -65,8 +63,6 @@ Then, in the latter part of the month, I got an email from a Creative Director i
 My contact told me about a former colleague who was looking for a senior designer with a diverse background a startup in Bamberg. He put my name on top of the list of potential candidates and sent my contact information to the CEO. 
 > 
 > "Holy crap, this networking crap really works!"
-
-The CEO called me the same day and we chatted briefly and set up an appointment for the following day. 
 
 **The meeting.**
 
