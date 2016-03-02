@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'A trip to Munich, filled with the hope of possibility.'
-datePublished: '2016-03-02T14:33:23.621Z'
-dateModified: '2016-03-02T14:32:45.109Z'
+datePublished: '2016-03-02T14:41:00.439Z'
+dateModified: '2016-03-02T14:35:28.804Z'
 title: 'Designer disrupted, chapter 2'
 author: []
 sourcePath: _posts/2016-03-02-designer-disrupted-chapter-2.md
@@ -22,6 +22,8 @@ url: designer-disrupted-chapter-2/index.html
 _type: Article
 
 ---
+****
+
 **The Hunter.**
 
 I reached out to the recruiter's office, a branch of Designer Dock, and made an appointment to get to know one another, talk about my work and experience and see if I meshed with any of her clients' needs. 
@@ -49,3 +51,4 @@ She liked my work and gave me some great feedback on refining my portfolio for t
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1920d749-cde2-4536-9adf-d8dfe1ed0da9.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d53ae33e-9130-404c-b501-f66e5e6865b7.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4ac728c-c26a-4aea-9186-b588620bfeef.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c19e21e-cdfc-4674-806f-c561b4f9dfd2.jpg)
