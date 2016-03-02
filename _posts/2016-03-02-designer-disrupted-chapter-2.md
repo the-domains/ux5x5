@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T13:13:37.477Z'
-dateModified: '2016-03-02T13:13:06.010Z'
+datePublished: '2016-03-02T13:47:59.046Z'
+dateModified: '2016-03-02T13:47:23.423Z'
 title: 'Designer disrupted, chapter 2'
 author: []
 sourcePath: _posts/2016-03-02-designer-disrupted-chapter-2.md
@@ -22,6 +22,8 @@ url: designer-disrupted-chapter-2/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5be432f-2ef2-4e41-87ac-0ac9e52f34e7.jpg)
+
 # Designer disrupted, chapter 2
 
 **The hunter.**
