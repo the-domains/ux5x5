@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-02T13:32:02.113Z'
-dateModified: '2016-03-02T13:31:49.400Z'
+datePublished: '2016-03-02T13:56:13.588Z'
+dateModified: '2016-03-02T13:55:06.991Z'
 title: 'Designer disrupted, chapter 1'
 author: []
 sourcePath: _posts/2016-03-01-designer-disrupted-chapter-1.md
