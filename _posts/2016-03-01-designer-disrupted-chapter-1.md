@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-02T13:56:13.588Z'
-dateModified: '2016-03-02T13:55:06.991Z'
+datePublished: '2016-03-02T14:00:13.244Z'
+dateModified: '2016-03-02T13:59:15.877Z'
 title: 'Designer disrupted, chapter 1'
 author: []
 sourcePath: _posts/2016-03-01-designer-disrupted-chapter-1.md
@@ -26,7 +26,7 @@ _type: Article
 
 # Designer disrupted, chapter 1
 
-Every few years, the CDC announces a new super-bug. A disease resistant to treatments usually prescribed for illnesses of that ilk. During the announcement, they invariably suggest that citizens be on the look out for 'flu-like symptoms'. Given the vague nature of the symptoms description, almost any illness might trigger alarm bells in the head of anyone not feeling well.
+Every few years, the CDC announces a new super-bug. A disease resistant to treatments usually prescribed for illnesses of that ilk. During the announcement, they invariably suggest that citizens be on the look out for 'flu-like symptoms'. Given the vague nature of the symptoms description, almost any illness might trigger alarm bells in the head of anyone not feeling well. 
 
 **Untreated culture shock.**
 
