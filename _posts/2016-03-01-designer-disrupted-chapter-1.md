@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: Culture shock is like the ocean. Never turn your back on it.
-datePublished: '2016-03-02T15:38:00.875Z'
-dateModified: '2016-03-02T15:35:22.398Z'
+description: "Every few years, the CDC announces a new super-bug. A disease resistant to treatments usually prescribed for illnesses of that ilk. During the announcement, they invariably suggest that citizens be on the look out for 'flu-like symptoms'. Given the vague nature of the symptoms description, almost any illness might trigger alarm bells in the head of anyone not feeling well.\_"
+datePublished: '2016-03-21T09:09:34.720Z'
+dateModified: '2016-03-21T09:09:34.024Z'
 title: 'Designer disrupted, 1'
 author: []
 sourcePath: _posts/2016-03-01-designer-disrupted-chapter-1.md
@@ -22,7 +22,7 @@ url: designer-disrupted-chapter-1/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/19268d58-10af-41fb-a719-fe9adfcc52b1.jpg)
+![Tracks in the snow](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f7ba6df28c052e495cfc03c2b59fd1d892f27cba.jpg)
 
 # Designer disrupted, 1
 
