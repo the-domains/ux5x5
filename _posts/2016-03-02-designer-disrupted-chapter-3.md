@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Resolving a picture of what was and what could be. '
-datePublished: '2016-03-02T15:03:04.289Z'
-dateModified: '2016-03-02T15:02:47.180Z'
+description: Out of left field.
+datePublished: '2016-03-21T09:09:52.682Z'
+dateModified: '2016-03-21T09:09:51.806Z'
 title: 'Designer disrupted, 3'
 author: []
 sourcePath: _posts/2016-03-02-designer-disrupted-chapter-3.md
@@ -38,7 +38,7 @@ Then, in the latter part of the month, I got an email from a Creative Director i
 
 My contact told me about a former colleague who was looking for a senior designer with a diverse background a startup in Bamberg. He put my name on top of the list of potential candidates and sent my contact information to the CEO. 
 > 
-> "Holy crap, this networking crap really works!"
+> "Holy toledo, this networking crap really works!"
 
 **The meeting.**
 
